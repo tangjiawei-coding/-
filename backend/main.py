@@ -3,12 +3,15 @@
 import base64
 import binascii
 import os
+from pathlib import Path
 from typing import Literal, Optional
 
 import httpx
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.exceptions import RequestValidationError
 from fastapi.responses import JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, ConfigDict, Field, ValidationError, field_validator
 
 
@@ -67,6 +70,8 @@ gramsPerPerson 是将该食材作为家常菜食材时的每人计划克数参�
 """
 
 app = FastAPI(title="菜小智食材识别", version="0.1.0")
+app.add_middleware(CORSMiddleware, allow_origins=["http://127.0.0.1:8765", "http://localhost:8765"],
+                   allow_methods=["GET", "POST"], allow_headers=["Content-Type"])
 
 
 @app.exception_handler(RequestValidationError)
@@ -77,7 +82,8 @@ async def invalid_request(_request: Request, _exc: RequestValidationError):
 
 @app.get("/health")
 def health():
-    return {"status": "ok", "modelConfigured": bool(os.getenv("OPENAI_API_KEY", "").strip())}
+    return {"status": "ok", "modelConfigured": bool(os.getenv("OPENAI_API_KEY", "").strip()),
+            "model": os.getenv("OPENAI_MODEL", "gpt-5.5")}
 
 
 def make_payload(request: RecognitionRequest) -> dict:
@@ -129,7 +135,7 @@ async def recognize(request: RecognitionRequest):
         raise HTTPException(503, "后端尚未配置 OPENAI_API_KEY，请先设置模型密钥")
     base_url = os.getenv("OPENAI_BASE_URL", "https://ai.novacode.top/v1").rstrip("/")
     try:
-        async with httpx.AsyncClient(timeout=httpx.Timeout(90, connect=10)) as client:
+        async with httpx.AsyncClient(timeout=httpx.Timeout(90, connect=10), trust_env=False) as client:
             response = await client.post(
                 f"{base_url}/responses",
                 headers={"Authorization": f"Bearer {api_key}"},
@@ -149,4 +155,10 @@ async def recognize(request: RecognitionRequest):
         raise HTTPException(502, "暂时无法连接模型服务，请稍后重试") from None
     except (ValidationError, ValueError, KeyError, TypeError, AttributeError):
         raise HTTPException(502, "模型未返回有效的食材分析，请重试或更换照片") from None
+
+
+from kitchen import router as kitchen_router
+app.include_router(kitchen_router)
+# 本机也可直接通过 http://127.0.0.1:8000 打开网页，前后端使用同一服务。
+app.mount("/", StaticFiles(directory=Path(__file__).resolve().parents[1] / "web-demo" / "ui-preview", html=True), name="preview")
 

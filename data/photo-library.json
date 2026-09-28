@@ -1,0 +1,3449 @@
+[
+  {
+    "id": "garlic",
+    "name": "蒜香上海青",
+    "aliases": [
+      "蒜蓉上海青",
+      "清炒上海青",
+      "蒜炒小青菜"
+    ],
+    "methods": [
+      "清炒",
+      "快炒"
+    ],
+    "ingredientGroups": [
+      [
+        "上海青",
+        "青梗菜",
+        "小青菜",
+        "油菜",
+        "小白菜"
+      ],
+      [
+        "大蒜",
+        "蒜",
+        "蒜瓣",
+        "蒜末"
+      ]
+    ],
+    "file": "library/garlic.jpg",
+    "author": "Ralff Nestor Nacor",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Stir_Fried_Bok_Choy,_Aug_2025.jpg",
+    "sourceTitle": "File:Stir Fried Bok Choy, Aug 2025.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Stir_Fried_Bok_Choy%2C_Aug_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Stir_Fried_Bok_Choy%2C_Aug_2025.jpg/960px-Stir_Fried_Bok_Choy%2C_Aug_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Stir Fried Bok Choy, Aug 2025",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2025-08-30 08:54:43",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Stir Fried Bok Choy, Aug 2025",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Files with coordinates missing SDC location of creation|Photographs by User:Ralffralff|Philippine Panorama Project/Food & Beverages|Bok choy dishes",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "14.654064",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "120.984073",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Stir Fried Bok Choy, Aug 2025",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2025-08-29 20:28:34",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ralffralff\" title=\"User:Ralffralff\">Ralff Nestor Nacor</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "c2beb0f238174c43aabb02edd8a44bf34cfae547b3aa9f68f6f0a80a5f26bfe2",
+    "bytes": 141538
+  },
+  {
+    "id": "tomato-egg",
+    "name": "番茄炒蛋",
+    "aliases": [
+      "西红柿炒鸡蛋",
+      "番茄炒鸡蛋"
+    ],
+    "methods": [
+      "快炒",
+      "清炒"
+    ],
+    "ingredientGroups": [
+      [
+        "番茄",
+        "西红柿"
+      ],
+      [
+        "鸡蛋"
+      ]
+    ],
+    "file": "library/tomato-egg.jpg",
+    "author": "Ggsldwt",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:TOMATOANDEGG_GGSLDWT.jpg",
+    "sourceTitle": "File:TOMATOANDEGG GGSLDWT.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/TOMATOANDEGG_GGSLDWT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/TOMATOANDEGG_GGSLDWT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Chinese style stir-fried tomato and scrambled egg",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2012-01-20 05:40:51",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "TOMATOANDEGG GGSLDWT",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with iPhone 3G|Stir-fried tomato and scrambled eggs|Self-published work|Red food|Yellow food",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Chinese style stir-fried tomato and scrambled egg",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2011-12-30",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ggsldwt&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ggsldwt (page does not exist)\">Ggsldwt</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "1aa73b900b6a3c78084e0592e6aa4715cb525e4ebee3c048d9fe9a821ddf9c33",
+    "bytes": 458246
+  },
+  {
+    "id": "tomato-noodles",
+    "name": "番茄鸡蛋面",
+    "aliases": [
+      "西红柿鸡蛋面",
+      "番茄鸡蛋汤面"
+    ],
+    "methods": [
+      "汤面"
+    ],
+    "ingredientGroups": [
+      [
+        "番茄",
+        "西红柿"
+      ],
+      [
+        "鸡蛋"
+      ],
+      [
+        "面条",
+        "挂面",
+        "鲜面条",
+        "手擀面",
+        "宽面"
+      ]
+    ],
+    "file": "library/tomato-noodles.jpg",
+    "author": "Fumikas Sagisavas",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Tomato_scrambled_eggs_noodles.jpg",
+    "sourceTitle": "File:Tomato scrambled eggs noodles.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tomato_scrambled_eggs_noodles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Tomato_scrambled_eggs_noodles.jpg/960px-Tomato_scrambled_eggs_noodles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Tomato scrambled eggs noodles",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2025-03-07 09:01:35",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Tomato scrambled eggs noodles",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "CC-Zero|Stir-fried tomato and scrambled eggs|Huimian|Self-published work|Files with coordinates missing SDC location of creation|China photographs taken on 2025-03-03|Taken with OnePlus Ace 5",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "32.980772",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "114.035122",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Tomato scrambled eggs noodles",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2025-03-03 13:29:05",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fumikas_Sagisavas\" title=\"User:Fumikas Sagisavas\">Fumikas Sagisavas</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<div style=\"clear:both; border:2px solid #cc0000; background-color:#eaeeed; margin-top:6px;\">\n<table><tbody><tr><td style=\"padding:8px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Fairytale_upload_2.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/2/20/Fairytale_upload_2.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" data-file-width=\"64\" data-file-height=\"64\"></a></span>\n</td><td style=\"padding:8px;\"><div><b>Please <a href=\"//commons.wikimedia.org/wiki/Commons:OVERWRITE\" class=\"mw-redirect\" title=\"Commons:OVERWRITE\">do not upload a modified image</a> here without consultation with the author.</b><br>The author would like to make possible <a href=\"//commons.wikimedia.org/wiki/Commons:OVERWRITE#Respect_content_creators\" class=\"mw-redirect\" title=\"Commons:OVERWRITE\">minor modifications</a> only at his own source. (The source is usually a RAW file. Processing of the JPEG file means a loss of quality.) This ensures that the changes and the quality are preserved.<br>If you think that any changes should be required, please contact the <a href=\"//commons.wikimedia.org/wiki/User_talk:Ralf_Roletschek\" title=\"User talk:Ralf Roletschek\">author</a>.<br>Otherwise you can upload a <b>new image</b> with a <b>new name</b>. Please use one of the templates <a href=\"//commons.wikimedia.org/wiki/Template:DF\" class=\"mw-redirect\" title=\"Template:DF\">Derivative</a> or <a href=\"//commons.wikimedia.org/wiki/Template:EF\" class=\"mw-redirect\" title=\"Template:EF\">Extracted</a>. Please enter your name too, if you upload a derivative or a detail, because you're in charge of the changes.<br>\n<b>Please do not rename this file.</b> The name is part of the attribution. In the case of misstatements, the author is pleased to provide information.</div></td></tr></tbody></table></div>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "f86870cac2ca84809d9f6b877f2a98971d42ebd2c207e4364875486efe1c779d",
+    "bytes": 162800
+  },
+  {
+    "id": "potato-pan",
+    "name": "香煎土豆块",
+    "aliases": [
+      "煎土豆",
+      "煎土豆块"
+    ],
+    "methods": [
+      "香煎"
+    ],
+    "ingredientGroups": [
+      [
+        "土豆",
+        "马铃薯"
+      ]
+    ],
+    "file": "library/potato-pan.jpg",
+    "author": "Infrogmation of New Orleans",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Home_fries_in_pan_on_range,_New_Orleans_September_2024.jpg",
+    "sourceTitle": "File:Home fries in pan on range, New Orleans September 2024.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Home_fries_in_pan_on_range%2C_New_Orleans_September_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Home_fries_in_pan_on_range%2C_New_Orleans_September_2024.jpg/960px-Home_fries_in_pan_on_range%2C_New_Orleans_September_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Made a couple of batches of home fried potatoes while the power was out after Hurricane Francine. We were fortunate that the power came back on later in the day, less than 24 hours without.",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2024-09-13 23:13:55",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Home fries in pan on range, New Orleans September 2024",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Flickr images reviewed by FlickreviewR 2|Breakfast in New Orleans|September 2024 in New Orleans|Home kitchens in New Orleans|Home fries of the United States|Food in the United States photographed in 2024|Flickr images missing SDC published in|Frying pans with food",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Made a couple of batches of home fried potatoes while the power was out after Hurricane Francine. We were fortunate that the power came back on later in the day, less than 24 hours without.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-09-12 09:48:24",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/infrogmation/53992084747/\">https://www.flickr.com/photos/infrogmation/53992084747/</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Infrogmation of New Orleans",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "3ba54beba59d7fb3692abfadeab0474fad8c742f42453a2bc55aeb698fde75d7",
+    "bytes": 376647
+  },
+  {
+    "id": "egg-scallion",
+    "name": "葱花炒蛋",
+    "aliases": [
+      "小葱炒鸡蛋",
+      "葱花炒鸡蛋"
+    ],
+    "methods": [
+      "快炒",
+      "清炒"
+    ],
+    "ingredientGroups": [
+      [
+        "鸡蛋"
+      ],
+      [
+        "小葱",
+        "香葱",
+        "葱花",
+        "葱"
+      ]
+    ],
+    "file": "library/egg-scallion.jpg",
+    "author": "Daderot",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Egg_and_scallion_-_Arlington,_MA.jpg",
+    "sourceTitle": "File:Egg and scallion - Arlington, MA.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Egg_and_scallion_-_Arlington%2C_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Egg_and_scallion_-_Arlington%2C_MA.jpg/960px-Egg_and_scallion_-_Arlington%2C_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Egg and scallion - Arlington, Massachusetts, USA.",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2021-06-15 16:23:03",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Egg and scallion - Arlington, MA",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "CC-Zero|Self-published work|Uploaded with Mobile/Android|Photographs taken on 2021-06-15|Scrambled eggs in the United States|Square photos of food in the United States|Chopped scallions|Chinese cuisine in Massachusetts",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Egg and scallion - Arlington, Massachusetts, USA.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "15 June 2021 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Daderot\" title=\"User:Daderot\">Daderot</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "eb81baae3732bac9f7db6484a963c5ed8605c72109dbee60f0c050e68f080682",
+    "bytes": 222479
+  },
+  {
+    "id": "mapo",
+    "name": "麻婆豆腐",
+    "aliases": [],
+    "methods": [
+      "焖烧"
+    ],
+    "ingredientGroups": [
+      [
+        "豆腐",
+        "嫩豆腐",
+        "北豆腐",
+        "南豆腐"
+      ],
+      [
+        "肉末",
+        "猪肉末",
+        "牛肉末",
+        "猪肉馅",
+        "牛肉馅"
+      ]
+    ],
+    "file": "library/mapo.jpg",
+    "author": "Sichuanfoodlover",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Authentic_Mapo_Tofu.jpg",
+    "sourceTitle": "File:Authentic Mapo Tofu.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Authentic_Mapo_Tofu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Authentic_Mapo_Tofu.jpg/960px-Authentic_Mapo_Tofu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Mapo Tofu - Authentic Sichuan Style",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2016-08-24 16:31:05",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Authentic Mapo Tofu",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Mapo doufu|Self-published work",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Mapo Tofu - Authentic Sichuan Style",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2015-04-21 12:39:15",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sichuanfoodlover&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sichuanfoodlover (page does not exist)\">Sichuanfoodlover</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "a4f19b9584c6713242d10a123738a368f29f08607ef359390391d35fabd25e3c",
+    "bytes": 128260
+  },
+  {
+    "id": "eggplant",
+    "name": "鱼香茄子",
+    "aliases": [
+      "鱼香肉末茄子"
+    ],
+    "methods": [
+      "焖烧",
+      "快炒"
+    ],
+    "ingredientGroups": [
+      [
+        "茄子",
+        "长茄子",
+        "紫茄子"
+      ]
+    ],
+    "file": "library/eggplant.jpg",
+    "author": "Popo le Chien",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Qiezi.jpg",
+    "sourceTitle": "File:Qiezi.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Qiezi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Qiezi.jpg/960px-Qiezi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "\"Fish-fragrant\" eggplants (Yuxiang Qiezi / 鱼香茄子) a famous dish from Sichuan province in China.",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2015-11-02 07:53:30",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Qiezi",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Yuxiang qiezi|CC-Zero|Self-published work|All media supported by Wikimedia CH|Foodstuff pictures coverage by Wikimedia CH - 2015|Files by Popo le Chien",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "\"Fish-fragrant\" eggplants (Yuxiang Qiezi / 鱼香茄子) a famous dish from Sichuan province in China.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2015-08-25 14:12:01",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Popo_le_Chien\" title=\"User:Popo le Chien\">Popo le Chien</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "5d86f07500ae64587f7a5e71cd3d11abceb13a0fc4b33bdd5dfc3f4d1ffd3722",
+    "bytes": 115521
+  },
+  {
+    "id": "disanxian",
+    "name": "地三鲜",
+    "aliases": [],
+    "methods": [
+      "快炒",
+      "焖烧"
+    ],
+    "ingredientGroups": [
+      [
+        "茄子",
+        "长茄子"
+      ],
+      [
+        "土豆",
+        "马铃薯"
+      ],
+      [
+        "青椒",
+        "甜椒"
+      ]
+    ],
+    "file": "library/disanxian.jpg",
+    "author": "1700-talet",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Di_san_xian_(home-made).jpg",
+    "sourceTitle": "File:Di san xian (home-made).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Di_san_xian_%28home-made%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Di_san_xian_%28home-made%29.jpg/960px-Di_san_xian_%28home-made%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Home-made version of di xan xian (地三鲜)",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2014-05-03 10:14:00",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Di san xian (home-made)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Homemade foods|Disanxian",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Home-made version of di xan xian (地三鲜)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2014-05-03 12:09:44",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:1700-talet\" title=\"User:1700-talet\">1700-talet</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "e5fc25f7a3c2e9736a4807c2b1a42929357266091e08f2234e41c08dd5defe32",
+    "bytes": 376730
+  },
+  {
+    "id": "cucumber",
+    "name": "拍黄瓜",
+    "aliases": [
+      "蒜泥拍黄瓜",
+      "凉拌拍黄瓜"
+    ],
+    "methods": [
+      "凉拌"
+    ],
+    "ingredientGroups": [
+      [
+        "黄瓜"
+      ]
+    ],
+    "file": "library/cucumber.jpg",
+    "author": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Smashed_cucumbers_(20220219174336).jpg",
+    "sourceTitle": "File:Smashed cucumbers (20220219174336).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Smashed_cucumbers_%2820220219174336%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Smashed_cucumbers_%2820220219174336%29.jpg/960px-Smashed_cucumbers_%2820220219174336%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "CNY20 for this popular appetizer.",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2022-03-17 10:34:13",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Smashed cucumbers (20220219174336)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Cucumber-based food|Self-published work|Beijing photographs taken on 2022-02-19|Files with coordinates missing SDC location of creation|February 2022 in Beijing",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "39.941922",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "116.414764",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "CNY20 for this popular appetizer.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2022-02-19 17:43:36",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:N509FZ\" title=\"User:N509FZ\">N509FZ</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "928bd8552895402cc6f1402e1db4ea9ea590903db6920b484e218d65f91e1356",
+    "bytes": 205375
+  },
+  {
+    "id": "beef-broccoli",
+    "name": "西兰花炒牛肉",
+    "aliases": [
+      "西兰花牛肉",
+      "牛肉炒西兰花"
+    ],
+    "methods": [
+      "快炒",
+      "清炒"
+    ],
+    "ingredientGroups": [
+      [
+        "西兰花"
+      ],
+      [
+        "牛肉",
+        "牛里脊",
+        "牛肉片"
+      ]
+    ],
+    "file": "library/beef-broccoli.jpg",
+    "author": "Laurel F",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Beef_and_Broccoli.jpg",
+    "sourceTitle": "File:Beef and Broccoli.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Beef_and_Broccoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Beef_and_Broccoli.jpg/960px-Beef_and_Broccoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Eye of round marinated in soy sauce, sherry vinegar, and chili bean sauce, and stir-fried with dried shrimp, black beans, garlic, ginger, leeks, broccoli, and arugula.",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2023-08-24 16:01:15",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Beef and Broccoli",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Beef and broccoli|Flickr images reviewed by FlickreviewR 2",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Eye of round marinated in soy sauce, sherry vinegar, and chili bean sauce, and stir-fried with dried shrimp, black beans, garlic, ginger, leeks, broccoli, and arugula.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2006-01-21 07:50:00",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/laurelfan/89790701/\">https://www.flickr.com/photos/laurelfan/89790701/</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Laurel F",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "4a3992583bf4f5399164d5e9b25a35ef6b1708f8f4ab638426c87439e18f0287",
+    "bytes": 219857
+  },
+  {
+    "id": "cabbage-bacon",
+    "name": "培根炒包菜",
+    "aliases": [
+      "培根包菜",
+      "包菜炒培根"
+    ],
+    "methods": [
+      "快炒",
+      "清炒"
+    ],
+    "ingredientGroups": [
+      [
+        "包菜",
+        "卷心菜",
+        "圆白菜",
+        "高丽菜"
+      ],
+      [
+        "培根"
+      ]
+    ],
+    "file": "library/cabbage-bacon.jpg",
+    "author": "Christopher",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Stir_Fried_Cabbage_and_Bacon_%E5%9F%B9%E6%A0%B9%E9%AB%98%E4%B8%BD%E8%8F%9C.jpg",
+    "sourceTitle": "File:Stir Fried Cabbage and Bacon 培根高丽菜.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Stir_Fried_Cabbage_and_Bacon_%E5%9F%B9%E6%A0%B9%E9%AB%98%E4%B8%BD%E8%8F%9C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Stir_Fried_Cabbage_and_Bacon_%E5%9F%B9%E6%A0%B9%E9%AB%98%E4%B8%BD%E8%8F%9C.jpg/960px-Stir_Fried_Cabbage_and_Bacon_%E5%9F%B9%E6%A0%B9%E9%AB%98%E4%B8%BD%E8%8F%9C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "培根高丽菜 - stir fried cabbage and bacon",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2010-01-11 23:06:17",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Stir Fried Cabbage and Bacon 培根高丽菜",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Vegetable-based food of China|Taken with Panasonic Lumix DMC-LX2|Cabbage-based food|Bacon dishes|Stir fried dishes of China|Flickr images uploaded by Flickr upload bot|Stir fried vegetables of China",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "培根高丽菜 - stir fried cabbage and bacon",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2007-10-28 19:02:29",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "originally posted to <b><a href=\"//commons.wikimedia.org/wiki/Flickr\" class=\"mw-redirect\" title=\"Flickr\">Flickr</a></b> as <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/47038415@N00/1790642939\">培根高丽菜 Stir Fried Cabbage and Bacon</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/47038415@N00\">Christopher</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<table id=\"FlickrReview\" style=\"width:100%; margin:0.3em auto; text-align:start; background-color:var(--background-color-success-subtle,#d5fdf4); padding: 3px; border:1px solid var(--border-color-base,#a2a9b1); color:inherit;\" dir=\"ltr\" lang=\"en\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><a href=\"https://en.wikipedia.org/wiki/Flickr\" class=\"extiw\" title=\"en:Flickr\">Flickr</a></b>, was uploaded to Commons using <b><a href=\"//commons.wikimedia.org/wiki/User:Flickr_upload_bot\" title=\"User:Flickr upload bot\">Flickr upload bot</a></b> on 11 January 2010, 23:06 by <span id=\"flickr_upload_bot_reviewer\"><b><a href=\"//commons.wikimedia.org/wiki/User:Glane23\" title=\"User:Glane23\">Glane23</a></b></span>. On that date, it was confirmed to be licensed under the terms of the license indicated.\n</td>\n<td><span typeof=\"mw:File\"><span><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/60px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/120px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span>\n</td></tr></tbody></table>\n<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/2.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/2.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 2.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 2.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "e2d3f1bf4453ffc63efeb9c7dce06a021dfd569cf3bae454f0140f7f615553b0",
+    "bytes": 160398
+  },
+  {
+    "id": "beans",
+    "name": "肉末干煸四季豆",
+    "aliases": [
+      "干煸四季豆"
+    ],
+    "methods": [
+      "快炒"
+    ],
+    "ingredientGroups": [
+      [
+        "四季豆",
+        "菜豆"
+      ],
+      [
+        "猪肉末",
+        "猪肉馅",
+        "肉末"
+      ]
+    ],
+    "file": "library/beans.jpg",
+    "author": "Andy Li",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Sichuan-style-dried_fried_Green_Beans_with_Minced_Pork_-_Aberdeen_Seafood,_Brighton_2026-07-19.jpg",
+    "sourceTitle": "File:Sichuan-style-dried fried Green Beans with Minced Pork - Aberdeen Seafood, Brighton 2026-07-19.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Sichuan-style-dried_fried_Green_Beans_with_Minced_Pork_-_Aberdeen_Seafood%2C_Brighton_2026-07-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Sichuan-style-dried_fried_Green_Beans_with_Minced_Pork_-_Aberdeen_Seafood%2C_Brighton_2026-07-19.jpg/960px-Sichuan-style-dried_fried_Green_Beans_with_Minced_Pork_-_Aberdeen_Seafood%2C_Brighton_2026-07-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Sichuan-style-dried fried Green Beans with Minced Pork",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2026-07-22 11:28:31",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Sichuan-style-dried fried Green Beans with Minced Pork - Aberdeen Seafood, Brighton 2026-07-19",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation (50° N, 1° W)|Stir fry Pork and String Beans 豆角炒豬肉|July 2026 in Brighton|England photographs taken on 2026-07-19|Aberdeen Seafood, Kings Road, Brighton|Food in the United Kingdom photographed in 2026",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "50.821964",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "-0.151575",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Sichuan-style-dried fried Green Beans with Minced Pork",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2026-07-19 19:24:49",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Onthewings\" title=\"User:Onthewings\">Andy Li</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "431f608ebb0b0070d6040fe1a813ffa55b0dbe0b77a8846842eccfc3b6dcc00e",
+    "bytes": 255948
+  },
+  {
+    "id": "kungpao",
+    "name": "宫保鸡丁",
+    "aliases": [],
+    "methods": [
+      "快炒"
+    ],
+    "ingredientGroups": [
+      [
+        "鸡肉",
+        "鸡胸肉",
+        "鸡腿肉",
+        "鸡丁"
+      ],
+      [
+        "花生",
+        "花生米",
+        "熟花生米"
+      ]
+    ],
+    "file": "library/kungpao.jpg",
+    "author": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Kung_Pao_Chicken_at_Yujiayan_Restaurant_(20230510123120).jpg",
+    "sourceTitle": "File:Kung Pao Chicken at Yujiayan Restaurant (20230510123120).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Kung_Pao_Chicken_at_Yujiayan_Restaurant_%2820230510123120%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Kung_Pao_Chicken_at_Yujiayan_Restaurant_%2820230510123120%29.jpg/960px-Kung_Pao_Chicken_at_Yujiayan_Restaurant_%2820230510123120%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "CNY 32, I think three bowls of rice would be enough.",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2023-05-10 16:30:31",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Kung Pao Chicken at Yujiayan Restaurant (20230510123120)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Kung Pao chicken|China photographs taken on 2023-05-10|Self-published work|May 2023 in Beijing|Files with coordinates missing SDC location of creation",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "40.035647",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "116.348075",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "CNY 32, I think three bowls of rice would be enough.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2023-05-10 12:31:20",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:N509FZ\" title=\"User:N509FZ\">N509FZ</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "808f77063786eb2b54091a2ec69e345470c989f9775263d0dbcb11afe6d5548b",
+    "bytes": 194105
+  },
+  {
+    "id": "pork",
+    "name": "红烧肉",
+    "aliases": [
+      "家常红烧肉"
+    ],
+    "methods": [
+      "焖烧"
+    ],
+    "ingredientGroups": [
+      [
+        "五花肉",
+        "猪五花肉"
+      ]
+    ],
+    "file": "library/pork.jpg",
+    "author": "lazy fri13th",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Red_braised_pork_belly.jpg",
+    "sourceTitle": "File:Red braised pork belly.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Red_braised_pork_belly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Red_braised_pork_belly.jpg/960px-Red_braised_pork_belly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Hong shao rou (red braised pork belly)",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2020-03-16 16:39:56",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Red braised pork belly",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Red braised pork belly|Chinese cuisine in Korea|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "37.524175",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "127.040489",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<i>Hong shao rou</i> (red braised pork belly)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2019-11-22",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://flickr.com/photos/fri13th/49115286182/\">https://flickr.com/photos/fri13th/49115286182/</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://flickr.com/photos/fri13th/\">lazy fri13th</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "326f47c8774c688a8ed6723a6f3f518c08564326adae35861f65aa7bf3dd1873",
+    "bytes": 175608
+  },
+  {
+    "id": "ribs",
+    "name": "糖醋排骨",
+    "aliases": [
+      "糖醋小排"
+    ],
+    "methods": [
+      "焖烧"
+    ],
+    "ingredientGroups": [
+      [
+        "排骨",
+        "猪排骨",
+        "猪小排",
+        "小排"
+      ]
+    ],
+    "file": "library/ribs.jpg",
+    "author": "Lim Ashley",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:T%C3%A1ngc%C3%B9_p%C3%A1ig%C7%94.jpg",
+    "sourceTitle": "File:Tángcù páigǔ.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/T%C3%A1ngc%C3%B9_p%C3%A1ig%C7%94.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/T%C3%A1ngc%C3%B9_p%C3%A1ig%C7%94.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Tángcù páigǔ (sweet and sour pork ribs)",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2018-12-20 14:35:36",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Tángcù páigǔ",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Tang cu pai gu|Flickr images reviewed by FlickreviewR 2",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<i>Tángcù páigǔ</i> (sweet and sour pork ribs)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2014-03-07",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/36482985@N00/12990558155/\">https://www.flickr.com/photos/36482985@N00/12990558155/</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/ashleyt/\">Lim Ashley</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "752642a7a2234be7e93f493d4a5925b8b33ca77c8bbef10a1ace88e6c7615fc4",
+    "bytes": 98118
+  },
+  {
+    "id": "fish-head",
+    "name": "剁椒鱼头",
+    "aliases": [],
+    "methods": [
+      "清蒸"
+    ],
+    "ingredientGroups": [
+      [
+        "鱼头",
+        "鲢鱼头",
+        "胖头鱼头",
+        "花鲢鱼头"
+      ],
+      [
+        "剁椒",
+        "红剁椒"
+      ]
+    ],
+    "file": "library/fish-head.jpg",
+    "author": "Huangdan2060",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_20210711.jpg",
+    "sourceTitle": "File:Steamed Fish Head with Diced Hot Red Peppers 20210711.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_20210711.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_20210711.jpg/960px-Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_20210711.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Steamed Fish Head with Diced Hot Red Peppers is a representative dish of Hunan cuisine.",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2021-07-18 05:19:04",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Steamed Fish Head with Diced Hot Red Peppers 20210711",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "China photographs taken on 2021-07-11|Steamed fish head with diced hot red peppers|Self-published work",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Steamed Fish Head with Diced Hot Red Peppers is a representative dish of Hunan cuisine.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2021-07-11 19:02:27",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Huangdan2060\" title=\"User:Huangdan2060\">Huangdan2060</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "ea2e45163a62aaac6f29bd6f767bd2f090558f47a48378d8518ed12686ae5a63",
+    "bytes": 118991
+  },
+  {
+    "id": "shrimp",
+    "name": "龙井虾仁",
+    "aliases": [],
+    "methods": [
+      "快炒",
+      "清炒"
+    ],
+    "ingredientGroups": [
+      [
+        "虾仁",
+        "鲜虾仁"
+      ],
+      [
+        "龙井茶",
+        "龙井茶叶",
+        "茶叶"
+      ]
+    ],
+    "file": "library/shrimp.jpg",
+    "author": "Zheng Zhou",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Shrimp_Stir-fried_with_Dragon_Well_Tea.jpg",
+    "sourceTitle": "File:Shrimp Stir-fried with Dragon Well Tea.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Shrimp_Stir-fried_with_Dragon_Well_Tea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Shrimp_Stir-fried_with_Dragon_Well_Tea.jpg/960px-Shrimp_Stir-fried_with_Dragon_Well_Tea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Shrimp Stir-fried with Dragon Well Tea by Hangzhou's \"Mountain Beyond Mountain\" Restaurant",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2024-09-24 08:24:52",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Shrimp Stir-fried with Dragon Well Tea",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Shrimp or prawn dishes of China|Self-published work|Files with coordinates missing SDC location of creation|China photographs taken on 2024-09-22|Food in Hangzhou",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "30.258389",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "120.116372",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Shrimp Stir-fried with Dragon Well Tea by Hangzhou's \"Mountain Beyond Mountain\" Restaurant",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-09-22 12:56:09",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Zheng_Zhou\" title=\"User:Zheng Zhou\">Zheng Zhou</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "2e7d5bfb14ffd2c24cc4c159aaa53b08dff5548136d62ba9810d125addb68262",
+    "bytes": 133303
+  },
+  {
+    "id": "rice",
+    "name": "蛋炒饭",
+    "aliases": [
+      "鸡蛋炒饭",
+      "家常蛋炒饭"
+    ],
+    "methods": [
+      "快炒"
+    ],
+    "ingredientGroups": [
+      [
+        "鸡蛋"
+      ],
+      [
+        "米饭",
+        "剩米饭",
+        "隔夜米饭",
+        "熟米饭"
+      ]
+    ],
+    "file": "library/rice.jpg",
+    "author": "Gaurav Dhwaj Khadka",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Egg_Fried_Rice.jpg",
+    "sourceTitle": "File:Egg Fried Rice.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Egg_Fried_Rice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Egg_Fried_Rice.jpg/960px-Egg_Fried_Rice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Egg Fried Rice",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2023-01-26 06:13:54",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Egg Fried Rice",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Rice dishes of Nepal|Fried rice in Nepal|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Nepal photographs taken on 2023-01-25",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "27.705744",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "85.347299",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Egg Fried Rice",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "25 January 2023 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gaurav_Dhwaj_Khadka\" title=\"User:Gaurav Dhwaj Khadka\">Gaurav Dhwaj Khadka</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "9c04bcbcb7bb343fa6f495785651c3d7b13bbaa3ad1a9f44dd7bfa2e458bc798",
+    "bytes": 281858
+  },
+  {
+    "id": "noodles",
+    "name": "葱油拌面",
+    "aliases": [],
+    "methods": [
+      "汤面",
+      "凉拌",
+      "快炒"
+    ],
+    "ingredientGroups": [
+      [
+        "面条",
+        "挂面",
+        "鲜面条",
+        "手擀面"
+      ],
+      [
+        "小葱",
+        "香葱",
+        "葱"
+      ]
+    ],
+    "file": "library/noodles.jpg",
+    "author": "HanWei's EXP from (optional)",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Shanghai_oil_noodle.jpg",
+    "sourceTitle": "File:Shanghai oil noodle.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Shanghai_oil_noodle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Shanghai_oil_noodle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Oil noodle Chinese noodle cooked noodleOil noodle shanghai",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2007-09-14 20:24:57",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Shanghai oil noodle",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Scallion oil noodles|Flickr images reviewed by FlickreviewR|Information field template with formatting",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Oil noodle Chinese noodle cooked noodle<br>Oil noodle shanghai",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2007-06-21",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/45901092@N00/876801698/\">Flickr</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/45901092@N00/\">HanWei's EXP</a> from (optional)",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/2.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/2.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 2.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 2.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "3922e828c42846a358476cf1ed11202774945c565c08d20ad86eb30bd62d6af2",
+    "bytes": 129040
+  },
+  {
+    "id": "lotus",
+    "name": "莲藕排骨汤",
+    "aliases": [
+      "排骨莲藕汤",
+      "藕炖排骨"
+    ],
+    "methods": [
+      "煮汤",
+      "焖烧"
+    ],
+    "ingredientGroups": [
+      [
+        "莲藕",
+        "藕"
+      ],
+      [
+        "排骨",
+        "猪排骨",
+        "猪小排"
+      ]
+    ],
+    "file": "library/lotus.jpg",
+    "author": "Zheng Zhou",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Lotus_Root_Soup.jpg",
+    "sourceTitle": "File:Lotus Root Soup.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Lotus_Root_Soup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Lotus_Root_Soup.jpg/960px-Lotus_Root_Soup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Lotus Root Soup with Pork Bones",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2020-11-10 17:32:31",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Lotus Root Soup",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Cuisine of Hubei|Self-published work|Files with coordinates missing SDC location of creation",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "39.908836",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "116.454178",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Lotus Root Soup with Pork Bones",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2020-10-27 12:51:42",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Zheng_Zhou\" title=\"User:Zheng Zhou\">Zheng Zhou</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "1286d8f822d5587de301e8c202c1cb117dd2cdd86e313af3d62e310593ba509c",
+    "bytes": 193630
+  },
+  {
+    "id": "mushroom-fry",
+    "name": "洋葱炒平菇",
+    "aliases": [
+      "平菇炒洋葱"
+    ],
+    "methods": [
+      "快炒",
+      "清炒"
+    ],
+    "ingredientGroups": [
+      [
+        "平菇",
+        "秀珍菇"
+      ],
+      [
+        "洋葱"
+      ]
+    ],
+    "file": "library/mushroom-fry.jpg",
+    "author": "Hyeon-Jeong Suk",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Neutaribokkeum_(stir-fried_oyster_mushrooms).jpg",
+    "sourceTitle": "File:Neutaribokkeum (stir-fried oyster mushrooms).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Neutaribokkeum_%28stir-fried_oyster_mushrooms%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Neutaribokkeum_%28stir-fried_oyster_mushrooms%29.jpg/960px-Neutaribokkeum_%28stir-fried_oyster_mushrooms%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Neutaribokkeum (stir-fried oyster mushrooms)",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2017-01-05 16:13:41",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Neutaribokkeum (stir-fried oyster mushrooms)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Banchan|Flickr images reviewed by FlickreviewR|Beoseotbokkeum|Mushroom dishes with Pleurotus ostreatus|Food taken with Canon EOS 100D",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Neutaribokkeum (stir-fried oyster mushrooms)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "15 December 2013, 12:04:26",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/127584241@N02/15149662054/\">https://www.flickr.com/photos/127584241@N02/15149662054/</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/127584241@N02/\">Hyeon-Jeong Suk</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "b86b92c71673377f8502868d8f3dff10ca1629749d972ad0181161f4b891425d",
+    "bytes": 64255
+  },
+  {
+    "id": "spinach-pork",
+    "name": "肉末炒菠菜",
+    "aliases": [
+      "肉末菠菜",
+      "菠菜炒肉末"
+    ],
+    "methods": [
+      "快炒",
+      "清炒"
+    ],
+    "ingredientGroups": [
+      [
+        "菠菜"
+      ],
+      [
+        "猪肉末",
+        "猪肉馅",
+        "肉末"
+      ]
+    ],
+    "file": "library/spinach-pork.jpg",
+    "author": "NeoBatfreak",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Stir-fried_spinach_and_ground_pork(1).jpg",
+    "sourceTitle": "File:Stir-fried spinach and ground pork(1).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Stir-fried_spinach_and_ground_pork%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Stir-fried_spinach_and_ground_pork%281%29.jpg/960px-Stir-fried_spinach_and_ground_pork%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "a plate of stir-fried spinach and ground pork",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2019-04-22 04:27:57",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Stir-fried spinach and ground pork(1)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Spinach-based food|Chinese cuisine in the United States|Stir fried vegetables of China|Food in Clovis, California",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "a plate of stir-fried spinach and ground pork",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2019-04-20 18:03:55",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:NeoBatfreak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:NeoBatfreak (page does not exist)\">NeoBatfreak</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "5effbb8c0f52a9a71dca183666fda88ae8b1e4bfb038cd5b1233b64c26b6f461",
+    "bytes": 125642
+  },
+  {
+    "id": "chicken",
+    "name": "豉油鸡",
+    "aliases": [
+      "酱油鸡"
+    ],
+    "methods": [
+      "焖烧"
+    ],
+    "ingredientGroups": [
+      [
+        "鸡",
+        "整鸡",
+        "三黄鸡",
+        "鸡腿",
+        "鸡肉"
+      ]
+    ],
+    "file": "library/chicken.jpg",
+    "author": "Dennis Wong from Hong Kong, Hong Kong",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Soy_Sauce_Chicken.jpg",
+    "sourceTitle": "File:Soy Sauce Chicken.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Soy_Sauce_Chicken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Soy_Sauce_Chicken.jpg/960px-Soy_Sauce_Chicken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Marinated Chicken, Soy Sauce Chicken (豉油雞) Chicken with soy sauce in Yi Xi Restaurant. 益新食館豉油雞",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2010-04-15 08:27:33",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Soy Sauce Chicken",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Canon EOS 40D|Soy sauce chicken|Flickr images reviewed by File Upload Bot (Magnus Manske)|Chicken dishes of Hong Kong",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<p>Marinated Chicken, Soy Sauce Chicken (豉油雞)\n</p><p>Chicken with soy sauce in Yi Xi Restaurant.\n</p>\n益新食館豉油雞",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2009-05-17 12:48",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/97247234@N00/3547603486/\">Marinated Chicken, Soy Sauce Chicken (???)</a>\n</p>\n<ul><li>Uploaded by <a href=\"//commons.wikimedia.org/w/index.php?title=User:Di%C3%A1doco&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Diádoco (page does not exist)\">Diádoco</a></li></ul>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/97247234@N00\">Dennis Wong</a> from Hong Kong, Hong Kong",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "3f74cd6779663c78a9eecd4397ea0e8f56d6acbe478894df416a19c22d46b785",
+    "bytes": 139740
+  },
+  {
+    "id": "cauliflower",
+    "name": "清炒花菜",
+    "aliases": [
+      "清炒菜花",
+      "素炒花菜"
+    ],
+    "methods": [
+      "快炒",
+      "清炒"
+    ],
+    "ingredientGroups": [
+      [
+        "花菜",
+        "菜花",
+        "花椰菜"
+      ]
+    ],
+    "file": "library/cauliflower.jpg",
+    "author": "Tbatb",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Stir-fried_Cauliflower.jpg",
+    "sourceTitle": "File:Stir-fried Cauliflower.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Stir-fried_Cauliflower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Stir-fried_Cauliflower.jpg/960px-Stir-fried_Cauliflower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "​一盤炒白花椰菜。",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2020-12-12 14:48:55",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Stir-fried Cauliflower",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Cauliflower|Cuisine of Taiwan|Self-published work|Photographs by Tbatb taken in 2020",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "​一盤炒白花椰菜。",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2020-12-12 18:53:49",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tbatb&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tbatb (page does not exist)\">Tbatb</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "90b2a2bb7e703d4562717a97190c7d97ec37aea60571d7833f27885a23766b4c",
+    "bytes": 77559
+  },
+  {
+    "id": "eggplain",
+    "name": "三色蒸蛋",
+    "aliases": [
+      "蒸三色蛋",
+      "三色水蛋"
+    ],
+    "methods": [
+      "清蒸"
+    ],
+    "ingredientGroups": [
+      [
+        "鸡蛋"
+      ],
+      [
+        "皮蛋",
+        "松花蛋"
+      ],
+      [
+        "咸鸭蛋",
+        "咸蛋"
+      ]
+    ],
+    "file": "library/eggplain.jpg",
+    "author": "Tam3415 from (optional)",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:ChineseSteamedEgg.jpg",
+    "sourceTitle": "File:ChineseSteamedEgg.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/ChineseSteamedEgg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/ChineseSteamedEgg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Chinese steamed egg 蒸三色水蛋 蒸水蛋Chinese steamed egg",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2007-08-26 21:21:00",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "ChineseSteamedEgg",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Chinese steamed eggs|Flickr images reviewed by FlickreviewR|Information field template with formatting",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Chinese steamed egg 蒸三色水蛋 蒸水蛋<br>Chinese steamed egg",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2007-01-19",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/tam3415/651416014/\">Flickr</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/tam3415/\">Tam3415</a> from (optional)",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/2.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/2.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 2.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 2.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "975ffca12662a5c80d663b04502ce672b976c115a276d710af3105b2eedccc34",
+    "bytes": 176105
+  },
+  {
+    "id": "water-spinach",
+    "name": "蒜蓉空心菜",
+    "aliases": [
+      "蒜香空心菜",
+      "清炒空心菜"
+    ],
+    "methods": [
+      "快炒",
+      "清炒"
+    ],
+    "ingredientGroups": [
+      [
+        "空心菜"
+      ],
+      [
+        "蒜",
+        "大蒜",
+        "蒜末",
+        "蒜瓣"
+      ]
+    ],
+    "file": "library/water-spinach.jpg",
+    "author": "NeoBatfreak",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Stir-fried_Water_Convolvulus_(%E7%82%92%E7%A9%BA%E5%BF%83%E8%8F%9C).jpg",
+    "sourceTitle": "File:Stir-fried Water Convolvulus (炒空心菜).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Stir-fried_Water_Convolvulus_%28%E7%82%92%E7%A9%BA%E5%BF%83%E8%8F%9C%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Stir-fried_Water_Convolvulus_%28%E7%82%92%E7%A9%BA%E5%BF%83%E8%8F%9C%29.jpg/960px-Stir-fried_Water_Convolvulus_%28%E7%82%92%E7%A9%BA%E5%BF%83%E8%8F%9C%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "A dish of Chinese-style Stir-fried Water Convolvulus (炒空心菜)",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2019-04-09 04:03:49",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Stir-fried Water Convolvulus (炒空心菜)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Stir fried water spinach|Self-published work|Chinese cuisine in the United States|Stir fried vegetables of China|Food in Clovis, California",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "A dish of Chinese-style Stir-fried Water Convolvulus (炒空心菜)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2019-04-01 18:56:35",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:NeoBatfreak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:NeoBatfreak (page does not exist)\">NeoBatfreak</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "ee7f70573c0e130ac38b34a120b0b3ed315ef92f1b4329d41cce16adcf10a862",
+    "bytes": 136619
+  },
+  {
+    "id": "twice-pork",
+    "name": "回锅肉",
+    "aliases": [
+      "家常回锅肉"
+    ],
+    "methods": [
+      "快炒"
+    ],
+    "ingredientGroups": [
+      [
+        "五花肉",
+        "猪五花肉",
+        "猪肉"
+      ]
+    ],
+    "file": "library/twice-pork.jpg",
+    "author": "pelican from Tokyo, Japan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:H%C3%BAi_g%C5%ABo_r%C3%B2u_(3958649396).jpg",
+    "sourceTitle": "File:Húi gūo ròu (3958649396).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/H%C3%BAi_g%C5%ABo_r%C3%B2u_%283958649396%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/H%C3%BAi_g%C5%ABo_r%C3%B2u_%283958649396%29.jpg/960px-H%C3%BAi_g%C5%ABo_r%C3%B2u_%283958649396%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "húi gūo ròu",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2019-04-06 21:06:58",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Húi gūo ròu (3958649396)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Flickr images reviewed by FlickreviewR 2|Files from pelican's Flickr stream|Twice cooked pork in Japan",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "húi gūo ròu",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2009-09-27 18:30",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/pelican/3958649396/\">húi gūo ròu</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/85936780@N00\">pelican</a> from Tokyo, Japan",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "53632e93195309c9e4c2de11dd97813bda42256285b821b0eab26d8fd9278999",
+    "bytes": 147558
+  },
+  {
+    "id": "shredded-pork",
+    "name": "鱼香肉丝",
+    "aliases": [],
+    "methods": [
+      "快炒"
+    ],
+    "ingredientGroups": [
+      [
+        "猪肉",
+        "猪里脊",
+        "里脊肉",
+        "猪里脊肉",
+        "瘦猪肉"
+      ],
+      [
+        "木耳",
+        "黑木耳",
+        "干木耳"
+      ]
+    ],
+    "file": "library/shredded-pork.jpg",
+    "author": "Дмитрий Журавлев (dejur)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:%E9%B1%BC%E9%A6%99%E8%82%89%E4%B8%9D.jpg",
+    "sourceTitle": "File:鱼香肉丝.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/%E9%B1%BC%E9%A6%99%E8%82%89%E4%B8%9D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/%E9%B1%BC%E9%A6%99%E8%82%89%E4%B8%9D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "китайское блюдо",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2013-06-14 16:12:09",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "鱼香肉丝",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Yuxiang rousi",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "китайское блюдо",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2013-06-14 23:58:32",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://dejur.livejournal.com/107482.html\">http://dejur.livejournal.com/107482.html</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Дмитрий Журавлев (dejur)",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "a0203ca45c06393648e326866da79a7d059a5f9d8e99774b6f0adc8a7a69bc44",
+    "bytes": 145674
+  },
+  {
+    "id": "sweet-pork",
+    "name": "咕噜肉",
+    "aliases": [
+      "古老肉",
+      "菠萝咕噜肉",
+      "糖醋咕噜肉"
+    ],
+    "methods": [
+      "快炒",
+      "焖烧"
+    ],
+    "ingredientGroups": [
+      [
+        "猪肉",
+        "猪里脊",
+        "里脊肉",
+        "猪里脊肉"
+      ],
+      [
+        "菠萝",
+        "凤梨"
+      ]
+    ],
+    "file": "library/sweet-pork.jpg",
+    "author": "BorgQueen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Sweet_sour_pork.jpg",
+    "sourceTitle": "File:Sweet sour pork.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sweet_sour_pork.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Sweet_sour_pork.jpg/960px-Sweet_sour_pork.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Sweet and sour pork",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2023-01-16 00:52:14",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Sweet sour pork",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Sweet and sour pork|Self-published work|Chinese cuisine in Korea|Taken with Samsung Galaxy Z Fold2 5G",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Sweet and sour pork",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2023-01-04 16:56:19",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:BorgQueen\" title=\"User:BorgQueen\">BorgQueen</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "94a200b0d218e610b87da35bcd9d5d235482a368c3fe2c73f4b4243b13d44ddf",
+    "bytes": 363365
+  },
+  {
+    "id": "cabbage-tofu",
+    "name": "白菜豆腐汤",
+    "aliases": [
+      "白菜炖豆腐"
+    ],
+    "methods": [
+      "煮汤",
+      "焖烧"
+    ],
+    "ingredientGroups": [
+      [
+        "白菜",
+        "大白菜",
+        "娃娃菜"
+      ],
+      [
+        "豆腐",
+        "嫩豆腐",
+        "北豆腐",
+        "南豆腐"
+      ]
+    ],
+    "file": "library/cabbage-tofu.jpg",
+    "author": "NeoBatfreak",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Napa_Cabbage_%26_Tofu_soup_(%E7%99%BD%E8%8F%9C%E8%B1%86%E8%85%90%E6%B9%AF).jpg",
+    "sourceTitle": "File:Napa Cabbage & Tofu soup (白菜豆腐湯).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Napa_Cabbage_%26_Tofu_soup_%28%E7%99%BD%E8%8F%9C%E8%B1%86%E8%85%90%E6%B9%AF%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Napa_Cabbage_%26_Tofu_soup_%28%E7%99%BD%E8%8F%9C%E8%B1%86%E8%85%90%E6%B9%AF%29.jpg/960px-Napa_Cabbage_%26_Tofu_soup_%28%E7%99%BD%E8%8F%9C%E8%B1%86%E8%85%90%E6%B9%AF%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "retrievedAt": "2026-09-29",
+    "reviewed": true,
+    "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+    "description": "Napa Cabbage & Tofu soup. Recipe is from (2018) Chinese Soul Food: A Friendly Guide for Homemade Dumplings, Stir-Fries, Soups, and More, Seattle, WA: Sasquatch Books ISBN: 9781632171238.",
+    "sourceMetadata": {
+      "DateTime": {
+        "value": "2019-03-23 15:55:32",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Napa Cabbage & Tofu soup (白菜豆腐湯)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Tang (Chinese soup)|Cabbage-based soups|Self-published work|Chinese cuisine in the United States|Napa cabbage-based food|Tofu soups|Food in Clovis, California|2018 in Clovis, California",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Napa Cabbage &amp; Tofu soup.  Recipe is from <cite class=\"book\" style=\"font-style:normal\">(2018) <i> Chinese Soul Food: A Friendly Guide for Homemade Dumplings, Stir-Fries, Soups, and More</i>, Seattle, WA:  Sasquatch Books  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/9781632171238\" title=\"Special:BookSources/9781632171238\">9781632171238</a>. </small></cite>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2018-02-06",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:NeoBatfreak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:NeoBatfreak (page does not exist)\">NeoBatfreak</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "sha256": "73e94dc67757243d2fe511dbabe18377199134b82ad1a620140dd96954dd5a67",
+    "bytes": 101002
+  }
+]

@@ -1,0 +1,7 @@
+:root {
+  --green:#286749; --green-dark:#20573c; --green-soft:#eaf2e9;
+  --background:#f3f5e9; --surface:#fffef9; --ink:#202a23; --muted:#637067;
+  --line:#e4e9e0; --radius:20px; --radius-small:14px;
+  --space-page:22px; --space-section:28px; --button-height:54px;
+  --font:"HarmonyOS Sans SC","PingFang SC","Microsoft YaHei",sans-serif;
+}

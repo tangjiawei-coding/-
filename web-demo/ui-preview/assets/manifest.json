@@ -1,0 +1,317 @@
+{
+  "status": "30 道菜品参考照片已逐张记录来源和许可；首页旧市场照片仍为临时素材，不属于本次菜品图库。",
+  "images": [
+    {
+      "file": "market.jpg",
+      "usage": "首页拍照卡片，菜市场蔬菜照片",
+      "source": "https://images.unsplash.com/photo-1542838132-92c53300491e",
+      "temporary": true
+    },
+    {
+      "file": "library/garlic.jpg",
+      "name": "蒜香上海青",
+      "author": "Ralff Nestor Nacor",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Stir_Fried_Bok_Choy,_Aug_2025.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "c2beb0f238174c43aabb02edd8a44bf34cfae547b3aa9f68f6f0a80a5f26bfe2"
+    },
+    {
+      "file": "library/tomato-egg.jpg",
+      "name": "番茄炒蛋",
+      "author": "Ggsldwt",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:TOMATOANDEGG_GGSLDWT.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "1aa73b900b6a3c78084e0592e6aa4715cb525e4ebee3c048d9fe9a821ddf9c33"
+    },
+    {
+      "file": "library/tomato-noodles.jpg",
+      "name": "番茄鸡蛋面",
+      "author": "Fumikas Sagisavas",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Tomato_scrambled_eggs_noodles.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "f86870cac2ca84809d9f6b877f2a98971d42ebd2c207e4364875486efe1c779d"
+    },
+    {
+      "file": "library/potato-pan.jpg",
+      "name": "香煎土豆块",
+      "author": "Infrogmation of New Orleans",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Home_fries_in_pan_on_range,_New_Orleans_September_2024.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "3ba54beba59d7fb3692abfadeab0474fad8c742f42453a2bc55aeb698fde75d7"
+    },
+    {
+      "file": "library/egg-scallion.jpg",
+      "name": "葱花炒蛋",
+      "author": "Daderot",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Egg_and_scallion_-_Arlington,_MA.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "eb81baae3732bac9f7db6484a963c5ed8605c72109dbee60f0c050e68f080682"
+    },
+    {
+      "file": "library/mapo.jpg",
+      "name": "麻婆豆腐",
+      "author": "Sichuanfoodlover",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Authentic_Mapo_Tofu.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "a4f19b9584c6713242d10a123738a368f29f08607ef359390391d35fabd25e3c"
+    },
+    {
+      "file": "library/eggplant.jpg",
+      "name": "鱼香茄子",
+      "author": "Popo le Chien",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Qiezi.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "5d86f07500ae64587f7a5e71cd3d11abceb13a0fc4b33bdd5dfc3f4d1ffd3722"
+    },
+    {
+      "file": "library/disanxian.jpg",
+      "name": "地三鲜",
+      "author": "1700-talet",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Di_san_xian_(home-made).jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "e5fc25f7a3c2e9736a4807c2b1a42929357266091e08f2234e41c08dd5defe32"
+    },
+    {
+      "file": "library/cucumber.jpg",
+      "name": "拍黄瓜",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Smashed_cucumbers_(20220219174336).jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "928bd8552895402cc6f1402e1db4ea9ea590903db6920b484e218d65f91e1356"
+    },
+    {
+      "file": "library/beef-broccoli.jpg",
+      "name": "西兰花炒牛肉",
+      "author": "Laurel F",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Beef_and_Broccoli.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "4a3992583bf4f5399164d5e9b25a35ef6b1708f8f4ab638426c87439e18f0287"
+    },
+    {
+      "file": "library/cabbage-bacon.jpg",
+      "name": "培根炒包菜",
+      "author": "Christopher",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Stir_Fried_Cabbage_and_Bacon_%E5%9F%B9%E6%A0%B9%E9%AB%98%E4%B8%BD%E8%8F%9C.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "e2d3f1bf4453ffc63efeb9c7dce06a021dfd569cf3bae454f0140f7f615553b0"
+    },
+    {
+      "file": "library/beans.jpg",
+      "name": "肉末干煸四季豆",
+      "author": "Andy Li",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sichuan-style-dried_fried_Green_Beans_with_Minced_Pork_-_Aberdeen_Seafood,_Brighton_2026-07-19.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "431f608ebb0b0070d6040fe1a813ffa55b0dbe0b77a8846842eccfc3b6dcc00e"
+    },
+    {
+      "file": "library/kungpao.jpg",
+      "name": "宫保鸡丁",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kung_Pao_Chicken_at_Yujiayan_Restaurant_(20230510123120).jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "808f77063786eb2b54091a2ec69e345470c989f9775263d0dbcb11afe6d5548b"
+    },
+    {
+      "file": "library/pork.jpg",
+      "name": "红烧肉",
+      "author": "lazy fri13th",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Red_braised_pork_belly.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "326f47c8774c688a8ed6723a6f3f518c08564326adae35861f65aa7bf3dd1873"
+    },
+    {
+      "file": "library/ribs.jpg",
+      "name": "糖醋排骨",
+      "author": "Lim Ashley",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:T%C3%A1ngc%C3%B9_p%C3%A1ig%C7%94.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "752642a7a2234be7e93f493d4a5925b8b33ca77c8bbef10a1ace88e6c7615fc4"
+    },
+    {
+      "file": "library/fish-head.jpg",
+      "name": "剁椒鱼头",
+      "author": "Huangdan2060",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_20210711.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "ea2e45163a62aaac6f29bd6f767bd2f090558f47a48378d8518ed12686ae5a63"
+    },
+    {
+      "file": "library/shrimp.jpg",
+      "name": "龙井虾仁",
+      "author": "Zheng Zhou",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Shrimp_Stir-fried_with_Dragon_Well_Tea.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "2e7d5bfb14ffd2c24cc4c159aaa53b08dff5548136d62ba9810d125addb68262"
+    },
+    {
+      "file": "library/rice.jpg",
+      "name": "蛋炒饭",
+      "author": "Gaurav Dhwaj Khadka",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Egg_Fried_Rice.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "9c04bcbcb7bb343fa6f495785651c3d7b13bbaa3ad1a9f44dd7bfa2e458bc798"
+    },
+    {
+      "file": "library/noodles.jpg",
+      "name": "葱油拌面",
+      "author": "HanWei's EXP from (optional)",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Shanghai_oil_noodle.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "3922e828c42846a358476cf1ed11202774945c565c08d20ad86eb30bd62d6af2"
+    },
+    {
+      "file": "library/lotus.jpg",
+      "name": "莲藕排骨汤",
+      "author": "Zheng Zhou",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lotus_Root_Soup.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "1286d8f822d5587de301e8c202c1cb117dd2cdd86e313af3d62e310593ba509c"
+    },
+    {
+      "file": "library/mushroom-fry.jpg",
+      "name": "洋葱炒平菇",
+      "author": "Hyeon-Jeong Suk",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Neutaribokkeum_(stir-fried_oyster_mushrooms).jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "b86b92c71673377f8502868d8f3dff10ca1629749d972ad0181161f4b891425d"
+    },
+    {
+      "file": "library/spinach-pork.jpg",
+      "name": "肉末炒菠菜",
+      "author": "NeoBatfreak",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Stir-fried_spinach_and_ground_pork(1).jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "5effbb8c0f52a9a71dca183666fda88ae8b1e4bfb038cd5b1233b64c26b6f461"
+    },
+    {
+      "file": "library/chicken.jpg",
+      "name": "豉油鸡",
+      "author": "Dennis Wong from Hong Kong, Hong Kong",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Soy_Sauce_Chicken.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "3f74cd6779663c78a9eecd4397ea0e8f56d6acbe478894df416a19c22d46b785"
+    },
+    {
+      "file": "library/cauliflower.jpg",
+      "name": "清炒花菜",
+      "author": "Tbatb",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Stir-fried_Cauliflower.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "90b2a2bb7e703d4562717a97190c7d97ec37aea60571d7833f27885a23766b4c"
+    },
+    {
+      "file": "library/eggplain.jpg",
+      "name": "三色蒸蛋",
+      "author": "Tam3415 from (optional)",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:ChineseSteamedEgg.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "975ffca12662a5c80d663b04502ce672b976c115a276d710af3105b2eedccc34"
+    },
+    {
+      "file": "library/water-spinach.jpg",
+      "name": "蒜蓉空心菜",
+      "author": "NeoBatfreak",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Stir-fried_Water_Convolvulus_(%E7%82%92%E7%A9%BA%E5%BF%83%E8%8F%9C).jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "ee7f70573c0e130ac38b34a120b0b3ed315ef92f1b4329d41cce16adcf10a862"
+    },
+    {
+      "file": "library/twice-pork.jpg",
+      "name": "回锅肉",
+      "author": "pelican from Tokyo, Japan",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:H%C3%BAi_g%C5%ABo_r%C3%B2u_(3958649396).jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "53632e93195309c9e4c2de11dd97813bda42256285b821b0eab26d8fd9278999"
+    },
+    {
+      "file": "library/shredded-pork.jpg",
+      "name": "鱼香肉丝",
+      "author": "Дмитрий Журавлев (dejur)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%E9%B1%BC%E9%A6%99%E8%82%89%E4%B8%9D.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "a0203ca45c06393648e326866da79a7d059a5f9d8e99774b6f0adc8a7a69bc44"
+    },
+    {
+      "file": "library/sweet-pork.jpg",
+      "name": "咕噜肉",
+      "author": "BorgQueen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sweet_sour_pork.jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "94a200b0d218e610b87da35bcd9d5d235482a368c3fe2c73f4b4243b13d44ddf"
+    },
+    {
+      "file": "library/cabbage-tofu.jpg",
+      "name": "白菜豆腐汤",
+      "author": "NeoBatfreak",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Napa_Cabbage_%26_Tofu_soup_(%E7%99%BD%E8%8F%9C%E8%B1%86%E8%85%90%E6%B9%AF).jpg",
+      "changes": "原站缩略图或原图；界面按容器裁切显示，图片内容未修改",
+      "sha256": "73e94dc67757243d2fe511dbabe18377199134b82ad1a620140dd96954dd5a67"
+    }
+  ],
+  "icons": "内联 SVG 线性图标，由本项目编写",
+  "background": {
+    "file": "botanical-pattern.svg",
+    "usage": "浅色植物装饰纹样",
+    "source": "本项目原创 SVG"
+  }
+}

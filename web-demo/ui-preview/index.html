@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f7f8f3"><title>菜小智 · 识菜首页</title>
+<link rel="stylesheet" href="tokens.css?v=6"><link rel="stylesheet" href="styles.css?v=6"><link rel="stylesheet" href="pages.css?v=6">
+</head>
+<body>
+<aside class="review-tools" aria-label="设计样板控制"><span>首页样板 <i>01</i></span><div role="group" aria-label="今日菜单预览状态"><button data-state="empty" aria-pressed="true">空菜单</button><button data-state="filled" aria-pressed="false">已有菜</button></div><button id="about-preview" aria-label="查看样板说明">说明</button></aside>
+<div class="app">
+<header class="brand"><a class="brand-name" href="#" aria-label="菜小智首页"><span class="brand-mark" data-icon="leaf"></span><span>菜小智<small>VEGISMART</small></span></a><span class="brand-note">把日子，做出滋味。</span></header>
+<main id="home-page">
+<section class="hero" aria-labelledby="hero-title">
+<div class="hero-photo"><img src="assets/market.jpg" alt="菜市场中整齐摆放的绿叶菜、彩椒和其他新鲜蔬菜"><span class="photo-note"><span data-icon="scan"></span> 镜头对准食材，灵感就从这里开始</span></div>
+<div class="hero-body"><span class="eyebrow">认识食材 · 发现三种做法</span><h1 id="hero-title">这是什么，<br>又能做点什么？</h1><p>从眼前的食材，找到今天想做的菜。</p><button class="primary" id="take-photo"><span data-icon="camera"></span>拍照识菜<span class="button-arrow" data-icon="arrow"></span></button></div>
+</section>
+<div class="secondary-actions"><button id="choose-photo"><span class="action-icon" data-icon="image"></span><span>从相册选择</span><span class="chevron" data-icon="chevron"></span></button><button id="open-search"><span class="action-icon" data-icon="search"></span><span>手动搜索</span><span class="chevron" data-icon="chevron"></span></button></div>
+<button class="home-menu" id="view-menu"><span class="home-menu-icon" data-icon="bowl"></span><span><strong>今日菜单 <span id="menu-count"></span></strong><small id="menu-preview">把今天想做的菜放在这里</small></span><span data-icon="chevron"></span></button>
+</main>
+<main id="route-page" hidden tabindex="-1"></main>
+<nav class="bottom-nav" aria-label="主导航"><button class="active" aria-current="page" id="nav-home"><span data-icon="scan"></span><span>识菜</span></button><button id="nav-menu"><span class="nav-icon-wrap"><span data-icon="menu"></span><b id="nav-badge" hidden>1</b></span><span>今日菜单</span></button><button id="nav-me"><span data-icon="user"></span><span>我的</span></button></nav>
+</div>
+<input id="camera-file" type="file" accept="image/*" capture="environment" hidden><input id="album-file" type="file" accept="image/*" hidden>
+<dialog id="sheet" aria-labelledby="sheet-title"><div class="sheet-handle"></div><div class="sheet-heading"><h2 id="sheet-title"></h2><button id="close-sheet" aria-label="关闭弹层"><span data-icon="close"></span></button></div><div id="sheet-body"></div></dialog>
+<div id="toast" role="status" aria-live="polite"></div><script src="data.js?v=6"></script><script src="photo-library.js?v=6"></script><script src="photo-match.js?v=6"></script><script src="api.js?v=6"></script><script src="app.js?v=6"></script>
+</body></html>

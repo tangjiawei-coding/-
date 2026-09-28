@@ -1,0 +1,279 @@
+/* 四页交互共用现有颜色与间距，细节页沿用同一张浅植物背景。 */
+[hidden] { display:none !important; }
+.demo-entry { display:block; margin:10px auto -9px; min-height:36px; font-size:12px; color:var(--green); text-decoration:underline; text-underline-offset:4px; }
+.page-header { display:flex; align-items:center; justify-content:space-between; height:76px; font-size:15px; }
+.page-header button { width:44px; height:44px; display:grid; place-items:center; border-radius:50%; background:#fffef9b8; }
+.page-header button svg { transform:rotate(180deg); width:20px; }
+.demo-label { font-size:10px; color:var(--green); padding:5px 8px; background:#e2ecd9; border-radius:6px; }
+.page-intro { margin:13px 0 25px; }
+.page-intro h1,.recipe-title h1 { margin:10px 0; font-size:30px; letter-spacing:-1px; }
+.page-intro p,.recipe-title p { color:var(--muted); font-size:13px; line-height:1.8; margin:0; }
+.ingredient-card,.content-card { background:var(--surface); border:1px solid var(--line); border-radius:20px; padding:22px 19px; margin-bottom:18px; }
+.ingredient-title { display:flex; gap:12px; align-items:center; margin-bottom:14px; }
+.ingredient-title h2 { font-size:23px; margin:0 0 4px; }
+.ingredient-title p { font-size:11px; color:var(--muted); margin:0; }
+.ingredient-title button { margin-left:auto; }
+.ingredient-emblem { width:45px; height:52px; border-radius:24px 24px 8px 8px; display:grid; place-items:center; background:#e6edda; color:var(--green); }
+.ingredient-emblem svg { width:30px; height:30px; }
+.small-note { font-size:11px; line-height:1.7; color:var(--muted); }
+dl { margin:18px 0 10px; }
+dl>div { display:grid; grid-template-columns:66px 1fr; gap:10px; font-size:13px; line-height:1.8; margin:12px 0; }
+dt { color:#85917e; } dd { margin:0; }
+details { border-top:1px solid var(--line); padding-top:15px; margin-top:18px; }
+summary { cursor:pointer; font-size:12px; color:var(--green); padding:7px 0; }
+details p,.content-card p { font-size:13px; line-height:1.9; color:var(--muted); }
+.recommendations-heading { margin-top:30px; }
+.dish-card { display:block; width:100%; padding:0; text-align:left; overflow:hidden; background:var(--surface); border:1px solid var(--line); border-radius:20px; margin-bottom:18px; }
+.dish-photo { position:relative; height:185px; overflow:hidden; }
+.dish-photo img { width:100%; height:100%; object-fit:cover; object-position:center 48%; }
+.dish-photo>span { position:absolute; bottom:12px; left:15px; background:#fffdf1ed; padding:6px 10px; border-radius:7px; font-size:10px; color:var(--green); letter-spacing:1px; }
+.dish-copy { padding:16px 18px 19px; }
+.dish-copy h3 { margin:0; font-size:19px; display:flex; justify-content:space-between; align-items:center; }
+.dish-copy h3 svg { width:20px; color:var(--green); }
+.dish-copy p { font-size:12px; color:var(--muted); line-height:1.8; margin:7px 0 11px; }
+.pairing { font-size:10px; color:#6e8164; padding:5px 9px; background:#f0f3e8; border-radius:5px; }
+.page-note { text-align:center; color:#7f8b79; font-size:10px; line-height:1.9; margin:25px 0 10px; }
+.recipe-cover { position:relative; height:245px; border-radius:20px; overflow:hidden; }
+.recipe-cover>img { width:100%; height:100%; object-fit:cover; }
+.photo-credit { position:absolute; bottom:10px; right:12px; font-size:9px; color:white; background:#243c2eaa; border-radius:4px; padding:4px 7px; }
+.recipe-title { padding:23px 1px 19px; }
+.recipe-meta { display:flex; gap:10px; margin-top:15px; }
+.recipe-meta span { font-size:11px; border:1px solid #d2ddc7; color:var(--green); padding:6px 10px; border-radius:7px; }
+.recipe-sections { display:flex; gap:25px; border-bottom:1px solid #d8e1cd; margin-bottom:22px; }
+.recipe-sections button { font-size:13px; height:45px; padding:0 3px; color:var(--green); }
+.content-card h2,.story-card h2 { font-size:19px; margin:0; }
+.content-card .section-heading { margin-bottom:8px; }
+.content-card>.small-note { font-size:11px; margin:0; }
+.ingredient-group { font-size:11px; color:#819177; letter-spacing:2px; margin:21px 0 5px; }
+.ingredient-row { display:flex; align-items:center; justify-content:space-between; gap:15px; width:100%; min-height:49px; text-align:left; border-bottom:1px solid #eef0e7; padding:10px 0; font-size:14px; }
+.ingredient-row>span:last-child { display:flex; align-items:center; gap:7px; color:var(--muted); font-size:12px; text-align:right; }
+.ingredient-row svg { width:13px; height:13px; flex-shrink:0; color:#9aab8f; }
+.steps { list-style:none; padding:0; margin:23px 0 0; }
+.steps li { display:flex; gap:15px; margin:0 0 24px; }
+.steps li:last-child { margin-bottom:0; }
+.step-number { font-size:13px; color:var(--green); background:#eaf0df; width:31px; height:31px; display:grid; place-items:center; border-radius:50%; flex-shrink:0; }
+.steps h3 { font-size:15px; margin:4px 0 7px; }.steps p { margin:0; }
+.story-card { padding:24px 20px; background:#ecefdc; border:1px solid #dfe5cf; border-radius:3px 20px 20px 20px; }
+.story-card h2 { margin-top:10px; }.story-card p { font-size:13px; line-height:2; color:#53624c; }
+.story-card a { font-size:10px; color:var(--green); line-height:1.8; }
+.recipe-cta { position:fixed; bottom:0; left:50%; transform:translateX(-50%); width:min(100%,430px); padding:12px 22px max(16px,env(safe-area-inset-bottom)); background:#f6f8eef5; border-top:1px solid var(--line); z-index:5; }
+.detail-mode { padding-bottom:115px; }.recipe-cta .primary { font-size:15px; }
+.count-pill { font-size:12px; background:#e1ebd6; color:var(--green); padding:6px 10px; border-radius:8px; margin-left:13px; vertical-align:middle; letter-spacing:0; }
+.menu-item { border:1px solid var(--line); background:var(--surface); border-radius:20px; margin-bottom:15px; overflow:hidden; }
+.menu-item .recipe-preview { border:0; border-radius:0; }
+.menu-item-foot { display:flex; align-items:center; justify-content:space-between; padding:0 16px 3px; border-top:1px solid #edf0e5; font-size:10px; color:#87917d; }
+.menu-item-foot button { min-height:42px; color:#7b6352; font-size:12px; }
+.outline-button { display:flex; align-items:center; justify-content:center; gap:10px; color:var(--green); font-size:14px; }
+.outline-button svg { width:18px; }.empty-cta { margin-top:22px; font-size:15px; }
+#toast.visible { pointer-events:auto; }#toast button { color:#e1efc8; text-decoration:underline; font-size:13px; margin-left:15px; padding:6px; }
+section[id] { scroll-margin-top:20px; }
+@media(max-width:370px) { .recipe-cover{height:220px}.ingredient-card,.content-card{padding:19px 16px}.recommendations-heading h2{font-size:18px}.recommendations-heading .small-note{font-size:10px} }
+
+/* 手机应用密度：操作保持 44px 触控区域，压缩装饰、图片和区块留白。 */
+:root { --space-page:16px; --space-section:18px; --button-height:48px; --radius:16px; --radius-small:12px; }
+.app { padding-bottom:84px; background-size:430px 1000px,100% 100%,100% 100%; }
+.brand { padding:17px 16px 15px; }
+.brand-name { font-size:21px; gap:8px; }
+.brand-mark { width:34px; height:34px; border-radius:11px; }
+.brand-mark svg { width:24px; height:24px; }
+.brand-name small { font-size:7px; margin-top:3px; }
+.brand-note { font-size:10px; }
+.hero { position:relative; border:0; background:#e4eedc; }
+.hero-photo { position:absolute; right:0; top:0; width:44%; height:169px; border-radius:0 16px 0 65px; }
+.hero-photo img { object-position:65% center; }
+.hero-photo:after { background:linear-gradient(90deg,#e4eedc,transparent 45%),linear-gradient(0deg,#e4eedc,transparent 45%); }
+.photo-note { display:none; }
+.hero-body { position:relative; padding:19px 16px 15px; }
+.hero .eyebrow { font-size:10px; letter-spacing:1px; }
+.hero h1 { max-width:205px; font-size:23px; line-height:1.35; letter-spacing:-.7px; margin:10px 0 8px; }
+.hero p { font-size:12px; line-height:1.7; margin:0 0 23px; max-width:220px; }
+.hero .primary { box-shadow:0 4px 12px #28674918; font-size:16px; }
+.hero-footnote { display:none; }
+.secondary-actions { margin-top:10px; gap:10px; }
+.secondary-actions button { height:54px; padding:0 12px; font-size:13px; gap:8px; }
+.demo-entry { margin:3px auto -5px; min-height:36px; font-size:11px; }
+.today { margin-top:14px; }
+.section-heading { margin-bottom:9px; }
+.section-heading h2 { font-size:17px; letter-spacing:0; }
+.empty-menu { min-height:99px; padding:16px; border-radius:14px; }
+.empty-menu p br { display:none; }
+.empty-illustration { width:46px; height:46px; }
+.recipe-preview { padding:10px; gap:12px; border-radius:14px; }
+.recipe-preview img { width:72px; height:72px; border-radius:10px; }
+.recipe-copy h3 { font-size:15px; margin:4px 0; }
+.closing-note { margin:17px 0 10px; font-size:10px; }
+.bottom-nav { padding:6px 18px calc(6px + env(safe-area-inset-bottom)); }
+.bottom-nav button { min-height:50px; gap:4px; }
+.bottom-nav button.active>span:first-child { padding:3px 16px; }
+.page-header { height:56px; font-weight:600; }
+.page-header button { background:transparent; margin-left:-8px; }
+.page-intro { margin:7px 0 17px; }
+.page-intro h1 { font-size:25px; margin:5px 0; }
+.page-intro .eyebrow { font-size:9px; letter-spacing:1px; }
+.page-intro p { font-size:12px; }
+/* 结果页让食材本身担任标题，避免连续三层页头。 */
+.page-header + .page-intro { display:none; }
+.ingredient-card { padding:15px; border-radius:16px; margin:3px 0 16px; border-top:3px solid #749565; }
+.ingredient-title { margin-bottom:7px; gap:10px; }
+.ingredient-title h2 { font-size:22px; }
+.ingredient-emblem { width:38px; height:42px; }
+.ingredient-emblem svg { width:25px; height:25px; }
+.ingredient-card>.small-note { display:block; font-size:10px; }
+dl { margin:10px 0 5px; display:grid; grid-template-columns:1fr 1fr; column-gap:14px; }
+dl>div { margin:4px 0; gap:8px; font-size:12px; line-height:1.65; grid-template-columns:auto 1fr; }
+dl>div:nth-child(2),dl>div:nth-child(4),dl>div:nth-child(5) { grid-column:1/-1; }
+dl>div:nth-child(3) { grid-column:2; grid-row:1; }
+dt { color:#72836c; white-space:nowrap; }
+details { padding-top:4px; margin-top:9px; }
+summary { min-height:36px; display:flex; align-items:center; justify-content:space-between; padding:4px 0; }
+summary:after { content:'＋'; font-size:17px; }
+details[open] summary:after { content:'−'; }
+.recommendations-heading { margin-top:17px; margin-bottom:10px; }
+.dish-card { display:flex; align-items:stretch; border-radius:14px; padding:9px; gap:12px; margin-bottom:10px; }
+.dish-photo { width:100px; height:104px; flex-shrink:0; border-radius:10px; }
+.dish-photo>span { left:5px; bottom:5px; padding:3px 5px; font-size:9px; letter-spacing:0; }
+.dish-copy { padding:5px 2px 4px 0; flex:1; min-width:0; }
+.dish-copy h3 { font-size:16px; line-height:1.6; }
+.dish-copy h3 svg { width:16px; }
+.dish-copy p { font-size:11px; line-height:1.65; margin:5px 0 8px; }
+.pairing { font-size:10px; padding:3px 6px; }
+.page-note { margin:16px 0 8px; }
+.recipe-cover { height:174px; border-radius:14px; }
+.recipe-title { padding:15px 1px 10px; }
+.recipe-title h1 { font-size:25px; margin:6px 0; }
+.recipe-title .eyebrow { font-size:9px; }
+.recipe-title p { font-size:12px; }
+.recipe-meta { margin-top:10px; gap:7px; }
+.recipe-meta span { padding:4px 8px; font-size:10px; }
+.recipe-sections { gap:0; justify-content:space-around; margin-bottom:13px; }
+.recipe-sections button { flex:1; min-height:44px; font-weight:600; }
+.recipe-sections button:hover { background:#e6eddc; }
+.content-card { padding:16px; border-radius:14px; margin-bottom:12px; }
+.content-card h2,.story-card h2 { font-size:17px; }
+.ingredient-group { margin:13px 0 2px; font-size:10px; }
+.ingredient-row { min-height:44px; padding:8px 0; font-size:13px; }
+.steps { margin-top:17px; }.steps li { gap:11px; margin-bottom:18px; }
+.steps h3 { font-size:14px; margin:3px 0 5px; }.steps p { font-size:12px; line-height:1.85; }
+.step-number { width:27px; height:27px; font-size:11px; }
+.story-card { padding:18px 16px; }.story-card p { font-size:12px; line-height:1.9; }
+.recipe-cta { padding:9px 16px max(10px,env(safe-area-inset-bottom)); }
+.detail-mode { padding-bottom:86px; }
+.menu-item { border-radius:14px; margin-bottom:10px; }
+.menu-item-foot { padding:0 12px; }.menu-item-foot button { min-height:36px; }
+.count-pill { font-size:11px; padding:4px 8px; }
+@media(max-width:900px) { .review-tools { display:none; }.app { min-height:100dvh; } }
+@media(max-width:370px) { .hero h1{font-size:22px}.dish-photo{width:91px}.dish-copy h3{font-size:15px}.dish-card{gap:10px}.pairing{font-size:9px} }
+
+/* 概览留在一屏，细节按需弹出；内容分页而不是靠裁切隐藏。 */
+.ingredient-summary { font-size:12px; line-height:1.7; color:var(--muted); margin:8px 0 2px; }
+.ingredient-bottom { display:flex; align-items:center; justify-content:space-between; border-top:1px solid var(--line); margin-top:10px; }
+.ingredient-bottom .text-button { color:var(--green); }
+.ingredient-card { padding-bottom:4px; margin-bottom:12px; }
+.recommendations-heading { margin-top:12px; }
+.dish-photo { height:90px; width:90px; }
+.dish-copy { padding-top:1px; }
+.dish-copy p { margin:3px 0 6px; }
+.recipe-cover { height:clamp(126px,23dvh,220px); }
+.recipe-entry-list { background:var(--surface); border:1px solid var(--line); border-radius:16px; padding:0 14px; margin-top:5px; }
+.recipe-entry-list>button { display:flex; width:100%; align-items:center; gap:12px; padding:12px 0; text-align:left; min-height:65px; }
+.recipe-entry-list>button+button { border-top:1px solid var(--line); }
+.entry-symbol { display:grid; place-items:center; width:36px; height:36px; border-radius:11px; background:#eaf0df; color:var(--green); }
+.entry-symbol svg { width:21px; height:21px; }
+.recipe-entry-list strong { display:block; font-size:14px; font-weight:600; }
+.recipe-entry-list small { display:block; color:var(--muted); font-size:11px; margin-top:4px; }
+.recipe-entry-list>button>svg { margin-left:auto; width:16px; color:#819177; }
+.recipe-entry-list>button:hover { background:#f1f5e9; }
+.sheet-pager { display:flex; align-items:center; justify-content:space-between; gap:12px; margin-top:16px; padding-top:12px; border-top:1px solid var(--line); }
+.sheet-pager button { min-width:86px; min-height:44px; background:#e5eddc; color:var(--green); border-radius:11px; font-size:13px; }
+.sheet-pager button:last-child { background:var(--green); color:white; }
+.sheet-pager button:disabled { opacity:.35; }
+.sheet-pager>span { font-size:12px; color:var(--muted); }
+dialog { padding:10px 20px max(20px,env(safe-area-inset-bottom)); max-height:90dvh; }
+.sheet-heading { margin-bottom:4px; }.sheet-heading h2 { font-size:20px; }
+#sheet-body .sheet-context { margin:0 0 15px; font-size:12px; }
+.material-page { min-height:204px; }
+.material-page .ingredient-row { min-height:51px; }
+.material-page .ingredient-row small { font-size:10px; color:#89967e; margin-left:8px; }
+.material-page .ingredient-row>span:last-child { max-width:58%; }
+.step-progress { display:flex; gap:6px; margin:16px 0 23px; }
+.step-progress span { flex:1; height:4px; background:#dfe7d6; border-radius:3px; }
+.step-progress .complete { background:var(--green); }
+.single-step { min-height:180px; padding:19px 17px; background:#eaf0df; border-radius:14px; }
+.single-step h3 { font-size:23px; margin:12px 0 10px; }
+#sheet-body .single-step p { margin:0; font-size:15px; line-height:1.9; color:#40553b; }
+.knowledge-page { padding:8px 0; }.knowledge-page h3 { font-size:15px; margin:12px 0 6px; }
+#sheet-body .knowledge-page p { margin:6px 0 14px; line-height:1.85; }
+.source-link { display:block; font-size:12px; line-height:1.8; padding:10px 0; }
+body:has(dialog[open]) { overflow:hidden; }
+.app:has(#route-page:not([hidden]) .recommendations) { padding-bottom:10px; }
+@media(max-height:720px) {
+  .app { padding-bottom:72px; }
+  .dish-card { margin-bottom:8px; padding:8px; }.dish-photo { height:84px; width:84px; }
+  .brand { padding-top:12px; padding-bottom:12px; }
+  .hero-body { padding-top:14px; padding-bottom:12px; }.hero p { margin-bottom:15px; }
+  .closing-note { display:none; }
+  .recipe-title { padding-top:10px; padding-bottom:8px; }
+  .recipe-title h1 { margin:4px 0; }.recipe-meta{margin-top:7px;}
+  .recipe-entry-list>button { min-height:59px; padding:9px 0; }
+  .page-note { margin-top:10px; font-size:9px; }
+  .page-intro { margin-bottom:12px; }.page-intro>.eyebrow { display:none; }
+  .menu-item-foot button { min-height:32px; }
+  .menu-list + .sheet-pager { margin-top:8px; padding-top:7px; }
+  .single-step { min-height:155px; }
+  #sheet-body img.chosen-photo { max-height:24dvh; }
+}
+
+/* 首页把可用高度交给识菜，菜单只保留一行入口。 */
+.home-mode { height:100dvh; min-height:640px; display:flex; flex-direction:column; padding-bottom:calc(74px + env(safe-area-inset-bottom)); }
+.home-mode .brand { flex-shrink:0; }
+#home-page { display:flex; flex-direction:column; flex:1; min-height:0; gap:10px; }
+.home-mode .hero { flex:1; min-height:260px; border-radius:22px; background:#e4eedc; }
+.home-mode .hero-photo { inset:0 0 auto; width:100%; height:64%; border-radius:0; }
+.home-mode .hero-photo img { object-position:center 62%; }
+.home-mode .hero-photo:after { background:linear-gradient(180deg,#20382725,transparent 30%,#e4eedc 100%); }
+.home-mode .photo-note { display:flex; top:16px; bottom:auto; left:16px; padding:7px 10px; border:1px solid #ffffff55; border-radius:20px; background:#24462b88; backdrop-filter:blur(8px); font-size:10px; letter-spacing:0; }
+.home-mode .hero-body { height:100%; display:flex; flex-direction:column; justify-content:flex-end; padding:22px; background:linear-gradient(180deg,transparent 35%,#e4eedcbb 54%,#e4eedc 72%); }
+.home-mode .hero .eyebrow { font-size:10px; letter-spacing:2px; }
+.home-mode .hero h1 { font-size:31px; line-height:1.23; max-width:none; margin:10px 0; letter-spacing:-1px; }
+.home-mode .hero p { max-width:none; font-size:12px; margin:0 0 18px; }
+.home-mode .hero .primary { height:54px; flex-shrink:0; border-radius:14px; }
+.home-mode .secondary-actions { margin:0; flex-shrink:0; }
+.home-mode .secondary-actions button { height:52px; }
+.home-mode .demo-entry { min-height:48px; width:100%; margin:0; padding:0 4px; display:flex; justify-content:space-between; align-items:center; text-decoration:none; flex-shrink:0; }
+.demo-entry>span { font-size:12px; color:var(--muted); }
+.demo-entry>strong { display:flex; align-items:center; gap:5px; font-size:12px; font-weight:600; }
+.demo-entry svg { width:16px; height:16px; }
+.home-menu { flex-shrink:0; display:flex; align-items:center; gap:10px; width:100%; text-align:left; padding:11px 12px; min-height:60px; border:1px solid #dce4d3; border-radius:14px; background:#fffef9bb; }
+.home-menu-icon { color:var(--green); background:#eaf0df; padding:8px; border-radius:10px; }
+.home-menu-icon svg { width:21px; height:21px; }
+.home-menu>span:nth-child(2) { flex:1; min-width:0; }
+.home-menu strong { display:block; font-size:13px; font-weight:600; }
+.home-menu #menu-count { font-size:10px; color:var(--green); font-weight:400; }
+.home-menu small { display:block; font-size:10px; color:var(--muted); margin-top:4px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.home-menu>span:last-child svg { width:16px; height:16px; color:#819177; }
+.example-grid { display:grid; grid-template-columns:1fr 1fr; gap:12px; margin:16px 0; }
+.example-grid button { padding:0; overflow:hidden; border:1px solid #dce4d3; background:#fffef9; border-radius:16px; text-align:left; }
+.example-grid img { width:100%; height:100px; object-fit:cover; display:block; }
+.example-grid button>span { display:block; padding:10px 12px; }
+.example-grid strong { display:block; font-size:16px; }
+.example-grid small { display:flex; justify-content:space-between; align-items:center; margin-top:6px; color:var(--muted); font-size:10px; }
+.example-grid svg { width:14px; height:14px; }
+.suggestions { gap:6px; }
+.suggestions button { flex:1; padding:10px 7px; font-size:12px; }
+.analysis-state { padding:24px 0; text-align:center; }
+.analysis-state h3 { font-size:18px; margin:18px 0 10px; }
+.analysis-symbol { display:grid; place-items:center; width:64px; height:64px; margin:auto; border-radius:50%; background:#e1ead4; color:var(--green); animation:breathe 1.8s ease-in-out infinite; }
+.analysis-symbol svg { width:32px; height:32px; }
+@keyframes breathe { 50% { transform:scale(1.08); background:#d1e2bf; } }
+@media(prefers-reduced-motion:reduce) { .analysis-symbol { animation:none; } }
+@media(max-height:720px) {
+  .home-mode { min-height:0; padding-bottom:70px; }
+  #home-page { gap:7px; }
+  .home-mode .hero-body { padding:16px; }
+  .home-mode .hero h1 { font-size:26px; margin:7px 0; }
+  .home-mode .hero p { margin-bottom:12px; font-size:11px; }
+  .home-mode .hero .primary { height:48px; }
+  .home-mode .demo-entry { min-height:42px; }
+  .home-mode .photo-note { top:12px; left:12px; }
+  .example-grid img { height:82px; }
+}

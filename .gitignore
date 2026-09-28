@@ -4,3 +4,12 @@ __pycache__/
 .pytest_cache/
 *.pyc
 
+# 鸿蒙本机配置、依赖和编译产物。
+harmonyos/**/.hvigor/
+harmonyos/**/oh_modules/
+harmonyos/**/build/
+harmonyos/**/.idea/
+harmonyos/**/local.properties
+harmonyos/**/*.p12
+harmonyos/**/*.p7b
+
