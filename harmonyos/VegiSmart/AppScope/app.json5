@@ -1,0 +1,10 @@
+{
+  "app": {
+    "bundleName": "com.hogwarts.vegismart",
+    "vendor": "霍格沃茨",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    "icon": "$media:app_icon",
+    "label": "$string:app_name"
+  }
+}

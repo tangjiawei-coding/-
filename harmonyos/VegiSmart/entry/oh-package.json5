@@ -1,0 +1,9 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "菜小智应用入口HAP",
+  "main": "",
+  "author": "霍格沃茨",
+  "license": "MIT",
+  "dependencies": {}
+}

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#f4f7ee" />
+  <meta name="description" content="菜小智——让AI从看见食材走向会买、会搭、会做" />
+  <title>菜小智 VegiSmart · 交互演示</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="ambient ambient-a"></div>
+  <div class="ambient ambient-b"></div>
+
+  <main class="app-shell" aria-label="菜小智交互演示">
+    <header class="status-bar">
+      <span>9:41</span>
+      <span class="status-icons">● ◔ ▰</span>
+    </header>
+
+    <section id="app" class="app-content" aria-live="polite"></section>
+
+    <nav class="bottom-nav" aria-label="主导航">
+      <button class="nav-item active" data-route="home" aria-label="首页">
+        <span class="nav-icon">⌂</span><span>首页</span>
+      </button>
+      <button class="nav-item" data-route="recognize" aria-label="识别">
+        <span class="nav-icon">◎</span><span>识别</span>
+      </button>
+      <button class="nav-item" data-route="pairing" aria-label="搭配">
+        <span class="nav-icon">◫</span><span>搭配</span>
+      </button>
+      <button class="nav-item" data-route="list" aria-label="购物清单">
+        <span class="nav-icon">✓</span><span>清单</span>
+      </button>
+      <button class="nav-item" data-route="profile" aria-label="我的">
+        <span class="nav-icon">○</span><span>我的</span>
+      </button>
+    </nav>
+  </main>
+
+  <div id="toast" class="toast" role="status"></div>
+  <div id="modal-root"></div>
+  <script src="./app.js"></script>
+</body>
+</html>

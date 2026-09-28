@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "让AI从看见食材走向会买、会搭、会做"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "菜小智主入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "菜小智"
+    },
+    {
+      "name": "camera_reason",
+      "value": "用于在用户主动操作时拍摄并识别食材"
+    }
+  ]
+}
